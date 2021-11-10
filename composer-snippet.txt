@@ -1,0 +1,4 @@
+    "repositories": [
+        { "type": "path", "url": "./ext/*" },
+        { "type": "composer", "url": "https://composer.typo3.org/" }
+    ],
